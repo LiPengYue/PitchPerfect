@@ -1,11 +1,12 @@
 # PitchPerfect
 Swift下的音频录音以及变声播放 <br>
-1、录音页面<br>
+录音页面<br>
 ![image](https://github.com/LongJiangSB/PitchPerfect/blob/master/Images/HomeImage.png) <br>
-2、播放页面<br>
+播放页面<br>
 ![image](https://github.com/LongJiangSB/PitchPerfect/blob/master/Images/PlayVideo.png) <br>
 
-##How To Use
+How To Use
+----
 ``` c
 var videoPlayH : VideoPlayHelper!
 
